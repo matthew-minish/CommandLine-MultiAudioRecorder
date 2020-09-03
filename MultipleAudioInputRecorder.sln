@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mic_audio_multi_record_test", "mic_audio_multi_record_test\mic_audio_multi_record_test.csproj", "{6C78A4DB-E7F4-4F9D-B21A-A191623446FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleAudioInputRecorder", "mic_audio_multi_record_test\MultipleAudioInputRecorder.csproj", "{6C78A4DB-E7F4-4F9D-B21A-A191623446FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
